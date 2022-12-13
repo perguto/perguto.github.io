@@ -1,0 +1,1 @@
+- [Interrogation of Korean comfort women in Burma captured by US Military, 1944](https://en.wikisource.org/wiki/Japanese_Prisoner_of_War_Interrogation_Report_49)
