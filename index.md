@@ -17,13 +17,11 @@ Enjoy the highest quality music rips in all your favorite games:
 - [Papers Please Borat Mod](https://github.com/perguto/Papers-Please-Borat-Mod): Telegame for Instruction Apprenticeship of Border Supervisor of Glorious Nation of Kazakhstan Protecting Country from Uzbekistan Infiltration
 
 
-- [PhoenixWrightTrilogyTools](https://github.com/perguto/PhoenixWrightTrilogyTools): Tools for Phoenix Wright: Ace Attorney Trilogy (Steam version)
 - [Shantae and the Seven Sirens Siivagunner Mod](https://github.com/perguto/Shantae-and-the-Seven-Sirens-Siivagunner-Mod): This little mod replaces some songs in "Shantae and the Seven Sirens" with their respective Siivagunner rips. Enjoy!
 - [SiIvagunner all rips playlist](https://github.com/perguto/SiIvagunner-all-rips-playlist): This is a playlist of all SiIvagunner rips from newest to oldest
 - [Sonic Robo Blast 2 Siivagunner Mod](https://github.com/perguto/Sonic-Robo-Blast-2-Siivagunner-Mod): null
 - [sus chess](https://github.com/perguto/sus-chess): A very sussy mod for "5D Chess With Multiverse Time Travel"
 - [Syobon Action Siivagunner Mod](https://github.com/perguto/Syobon-Action-Siivagunner-Mod): Only the highest quality rips for this high quality jump'n'run!
-- [Video Screenshot Extension](https://github.com/perguto/Video-Screenshot-Extension): Take a screenshot of any video on any website, in the best quality and without unwanted UI elements!
 - [VVVVVV SiIvagunner Mod](https://github.com/perguto/VVVVVV-SiIvagunner-Mod): Adds all the SiIvagunner and Timmy Turner's Grand Dad Song Parodies to VVVVVV
 
 ## Windows Utilities
@@ -33,15 +31,13 @@ Enjoy the highest quality music rips in all your favorite games:
 
 ## Browser Extensions
 
+- [Video Screenshot Extension](https://github.com/perguto/Video-Screenshot-Extension): Take a screenshot of any video on any website, in the best quality and without unwanted UI elements!
 
 ## Other Stuff
 
 - [goggle](https://github.com/perguto/goggle): goggle
 
-### Useful forks:
 
-- [XTranslate without malware](https://github.com/perguto/XTranslate-without-malware): Easy translate text on web pages (chrome extension)
-- [Meme It](https://github.com/perguto/Meme-It): Meme-it is a simple meme generator built using Javascript library Fabric.Js, and it allows you to manipulate text or images on a chosen meme template.
 
 
 ### Game Stubs:
@@ -54,3 +50,11 @@ Enjoy the highest quality music rips in all your favorite games:
 
 - [Hanzi Readings Comparison](https://github.com/perguto/Hanzi-Readings-Comparison): Table of Chinese characters with their Middle Chinese, reconstructed Old Chinese and Sino-Xenic readings
 
+## Forks
+
+Software written by other people, which I forked to correct slight issues:
+
+- [Old Hangul Input Method](https://github.com/perguto/Old-Hangul-Input-Method): Javascript-based IME for typing archaic Korean Hangul letters (e.g. ㅸ, ㅿ, ㅵ) easily. Open it [HERE](https://perguto.github.io/Old-Hangul-Input-Method/main.html) right in your browser!
+- [Meme It](https://github.com/perguto/Meme-It): Meme-it is a simple meme generator built using Javascript library Fabric.Js, and it allows you to manipulate text or images on a chosen meme template. Try it [HERE](https://perguto.github.io/Meme-It/) right in your browser!
+- [PhoenixWrightTrilogyTools](https://github.com/perguto/PhoenixWrightTrilogyTools): Tools for Phoenix Wright: Ace Attorney Trilogy (Steam version). Download the exe right [HERE](https://github.com/perguto/PhoenixWrightTrilogyTools/releases/download/v1/PWEncryptionTool.zip)!
+- [XTranslate without malware](https://github.com/perguto/XTranslate-without-malware): Easy translate text on web pages (chrome extension)
