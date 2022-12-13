@@ -10,7 +10,6 @@ Enjoy the highest quality music rips in all your favorite games:
 - [Ace Attorney Trilogy SiIvagunner Mod](https://github.com/perguto/Ace-Attorney-Trilogy-SiIvagunner-Mod): Please read the updated autopsy report.
 - [Ace Attorney Trilogy SiIvagunner Mod 3DS](https://github.com/perguto/Ace-Attorney-Trilogy-SiIvagunner-Mod-3DS): Please read the updated autopsy report.
 - [AM2R SiIvagunner Mod](https://github.com/perguto/AM2R-SiIvagunner-Mod): So far only alternate music for hydro station
-- [Craiyon Download Button](https://github.com/perguto/Craiyon-Download-Button): Download all generated images on craiyon.com in original quality with one click!
 - [Grand Story for 3DS](https://github.com/perguto/Grand-Story-for-3DS): null
 - [Hotline Miami 2 SiIvagunner Mod](https://github.com/perguto/Hotline-Miami-2-SiIvagunner-Mod): You really enjoy listening to high-quality rips, don't you?
 - [Hotline Miami SiIvagunner Mod](https://github.com/perguto/Hotline-Miami-SiIvagunner-Mod): Gotta get a high quality rip!
@@ -18,11 +17,12 @@ Enjoy the highest quality music rips in all your favorite games:
 
 
 - [Shantae and the Seven Sirens Siivagunner Mod](https://github.com/perguto/Shantae-and-the-Seven-Sirens-Siivagunner-Mod): This little mod replaces some songs in "Shantae and the Seven Sirens" with their respective Siivagunner rips. Enjoy!
-- [SiIvagunner all rips playlist](https://github.com/perguto/SiIvagunner-all-rips-playlist): This is a playlist of all SiIvagunner rips from newest to oldest
 - [Sonic Robo Blast 2 Siivagunner Mod](https://github.com/perguto/Sonic-Robo-Blast-2-Siivagunner-Mod): null
 - [sus chess](https://github.com/perguto/sus-chess): A very sussy mod for "5D Chess With Multiverse Time Travel"
 - [Syobon Action Siivagunner Mod](https://github.com/perguto/Syobon-Action-Siivagunner-Mod): Only the highest quality rips for this high quality jump'n'run!
 - [VVVVVV SiIvagunner Mod](https://github.com/perguto/VVVVVV-SiIvagunner-Mod): Adds all the SiIvagunner and Timmy Turner's Grand Dad Song Parodies to VVVVVV
+
+- [SiIvagunner all rips playlist](https://github.com/perguto/SiIvagunner-all-rips-playlist): This is a playlist of all SiIvagunner rips from newest to oldest
 
 ## Windows Utilities
 
@@ -32,6 +32,7 @@ Enjoy the highest quality music rips in all your favorite games:
 ## Browser Extensions
 
 - [Video Screenshot Extension](https://github.com/perguto/Video-Screenshot-Extension): Take a screenshot of any video on any website, in the best quality and without unwanted UI elements!
+- [Craiyon Download Button](https://github.com/perguto/Craiyon-Download-Button): Download all generated images on craiyon.com in original quality with one click!
 
 ## Other Stuff
 
@@ -52,9 +53,13 @@ Enjoy the highest quality music rips in all your favorite games:
 
 ## Forks
 
-Software written by other people, which I forked to correct slight issues:
+Software written by other people, which I forked in order to build an exe or to put the service on Github Pages:
 
 - [Old Hangul Input Method](https://github.com/perguto/Old-Hangul-Input-Method): Javascript-based IME for typing archaic Korean Hangul letters (e.g. ㅸ, ㅿ, ㅵ) easily. Open it [HERE](https://perguto.github.io/Old-Hangul-Input-Method/main.html) right in your browser!
 - [Meme It](https://github.com/perguto/Meme-It): Meme-it is a simple meme generator built using Javascript library Fabric.Js, and it allows you to manipulate text or images on a chosen meme template. Try it [HERE](https://perguto.github.io/Meme-It/) right in your browser!
 - [PhoenixWrightTrilogyTools](https://github.com/perguto/PhoenixWrightTrilogyTools): Tools for Phoenix Wright: Ace Attorney Trilogy (Steam version). Download the exe right [HERE](https://github.com/perguto/PhoenixWrightTrilogyTools/releases/download/v1/PWEncryptionTool.zip)!
 - [XTranslate without malware](https://github.com/perguto/XTranslate-without-malware): Easy translate text on web pages (chrome extension)
+
+not really presentable:
+- [Wiktionary Lookup](https://github.com/perguto/Wiktionary-Lookup): null
+- [pandoc_manual](https://github.com/perguto/pandoc_manual): Pandoc manual compiled into different formats as an experiment
