@@ -1,14 +1,13 @@
-# Welcome to Perguto's lair!
-
-## My SiIvagunner Game Mods
-
-Enjoy the highest quality music rips in all your favorite games:
-
-- Undertale
-- Deltarune
 - [2048_fibonacci](https://github.com/perguto/2048_fibonacci): 2048, but with Fibonacci numbers
 - [Ace Attorney Trilogy SiIvagunner Mod](https://github.com/perguto/Ace-Attorney-Trilogy-SiIvagunner-Mod): Please read the updated autopsy report.
 - [Ace Attorney Trilogy SiIvagunner Mod 3DS](https://github.com/perguto/Ace-Attorney-Trilogy-SiIvagunner-Mod-3DS): Please read the updated autopsy report.
+- [AHK Docs_DE](https://github.com/perguto/AHK-Docs_DE): Deutsche Dokumentation für AutoHotkey 
+- [AHK Docs_EN](https://github.com/perguto/AHK-Docs_EN): Documentation for AutoHotkey
+- [AHK Docs_ES](https://github.com/perguto/AHK-Docs_ES): Spanish translation of AutoHotkey's documentation 
+- [AHK Docs_FR](https://github.com/perguto/AHK-Docs_FR): French translation of AutoHotkey's documentation
+- [AHK Docs_KO](https://github.com/perguto/AHK-Docs_KO): Korean translation of AutoHotkey's documentation
+- [AHK Docs_PT](https://github.com/perguto/AHK-Docs_PT): Brazilian Portuguese translation of AutoHotkey's documentation
+- [AHK Docs_ZH](https://github.com/perguto/AHK-Docs_ZH): 个人主页, Autohotkey  中文帮助, 自用脚本介绍
 - [AHK Scripts](https://github.com/perguto/AHK-Scripts): own_ahk_scripts
 - [AM2R SiIvagunner Mod](https://github.com/perguto/AM2R-SiIvagunner-Mod): So far only alternate music for hydro station
 - [Brawl SiIvagunner Mod](https://github.com/perguto/Brawl-SiIvagunner-Mod): The highest quality rips for Super Smash Bros. Brawl!
@@ -23,4 +22,9 @@ Enjoy the highest quality music rips in all your favorite games:
 - [Hotline Miami SiIvagunner Mod](https://github.com/perguto/Hotline-Miami-SiIvagunner-Mod): Gotta get a high quality rip!
 - [math_game](https://github.com/perguto/math_game): null
 - [Meme It](https://github.com/perguto/Meme-It): Meme-it is a simple meme generator built using Javascript library Fabric.Js, and it allows you to manipulate text or images on a chosen meme template.
+- [Old Hangul Input Method](https://github.com/perguto/Old-Hangul-Input-Method): Javascript-based IME for typing archaic Korean Hangul letters (e.g. ㅸ, ㅿ, ㅵ) easily
+- [pandoc unicode math](https://github.com/perguto/pandoc-unicode-math): Replace Unicode symbols by equivalent Latex commands
+- [pandoc_manual](https://github.com/perguto/pandoc_manual): pandoc_manual
+- [pandoc_test](https://github.com/perguto/pandoc_test): pandoc_test
 - [Papers Please Borat Mod](https://github.com/perguto/Papers-Please-Borat-Mod): Telegame for Instruction Apprenticeship of Border Supervisor of Glorious Nation of Kazakhstan Protecting Country from Uzbekistan Infiltration
+- [pdf.js](https://github.com/perguto/pdf.js): PDF Reader in JavaScript
