@@ -43,9 +43,9 @@ Enjoy the highest quality music rips in all your favorite games:
 
 ### Game Stubs:
 
-- [2048_fibonacci](https://github.com/perguto/2048_fibonacci): 2048, but with Fibonacci numbers
-- [funny_gam](https://github.com/perguto/funny_gam): funny gam
-- [math_game](https://github.com/perguto/math_game): null
+- [2048_fibonacci](https://github.com/perguto/2048_fibonacci): 2048, but with Fibonacci numbers. Play [HERE](perguto.github.io/2048_fibonacci/)!
+- [funny_gam](https://github.com/perguto/funny_gam): funny gam. Play [HERE](perguto.github.io/funny_gam/)!
+- [math_game](https://github.com/perguto/math_game): Practice your mental arithmetic skills! Play [HERE](perguto.github.io/math_game/)!
 
 ## Languages
 
