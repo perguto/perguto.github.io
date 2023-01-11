@@ -16,4 +16,6 @@
 4. Find the .swf file in the panel (should be the biggest file)
 5. Right click > Open in new tab; The download should start automatically. If it opens in a flash player browser extension instead , deactivate the extension and reload.
 
-Demonstration (in the latter half of the video): https://www.youtube.com/watch?v=70uiDzZPaJQ
+Demonstration (in the latter half of the video): ![](https://www.youtube.com/watch?v=70uiDzZPaJQ)
+
+To play the games, I recommend *Clean Flash Player*, available here on [Github](https://github.com/darktohka/clean-flash-builds/releases/latest) and [Gitlab](https://gitlab.com/cleanflash/installer/-/releases).
