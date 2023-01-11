@@ -24,6 +24,12 @@ Enjoy the highest quality music rips in all your favorite games:
 
 - [SiIvagunner all rips playlist](https://github.com/perguto/SiIvagunner-all-rips-playlist): This is a playlist of all SiIvagunner rips from newest to oldest
 
+## Writings
+
+### Tech tips
+
+- [How to download and play offline any flash game](./tech_tips/flash_games_download.md)
+
 ## Windows Utilities
 
 - [AHK Scripts](https://github.com/perguto/AHK-Scripts): own_ahk_scripts
