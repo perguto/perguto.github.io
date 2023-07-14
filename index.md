@@ -28,7 +28,7 @@ Enjoy the highest quality music rips in all your favorite games:
 
 ### Tech tips
 
-- [How to download and play offline any flash game](./tech_tips/flash_games_download.md)
+- [How to download and play any flash game offline](./tech_tips/flash_games_download.md)
 
 ## Windows Utilities
 
