@@ -1,0 +1,2 @@
+- [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
+- [Wikipedia en](https://en.wikipedia.org/wiki/Main_Page)
