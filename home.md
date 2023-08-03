@@ -3,4 +3,7 @@
 - [Wikipiedia de](https://de.wikipedia.org/wiki/Wikipedia:Hauptseite)
 - [Wikipedia ja](https://ja.wikipedia.org/wiki/メインページ)
 - [Wikipedia ko](https://ko.wikipedia.org/wiki/위키백과:대문)
-- 
+
+<script>
+alert('hi')
+  </script>
