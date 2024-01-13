@@ -29,6 +29,7 @@ Enjoy the highest quality music rips in all your favorite games:
 ### Tech tips
 
 - [How to download and play any flash game offline](./tech_tips/flash_games_download.md)
+- [Windows Settings URLs](https://perguto.github.io/ms-settings_urls/): Access every Windows Settings page with just one click in the browser!
 
 ## Windows Utilities
 
