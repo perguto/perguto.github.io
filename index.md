@@ -1,3 +1,16 @@
+
+---
+layout: default
+---
+
+<style>
+body { 
+    background:  #0c0c0c;
+    color: #e0e0e0;
+}
+</style>
+
+
 # Welcome to Perguto's lair!
 
 ## My SiIvagunner Game Mods
