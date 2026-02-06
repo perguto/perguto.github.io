@@ -42,6 +42,10 @@ Enjoy the highest quality music rips in all your favorite games:
 - [Video Screenshot Extension](https://github.com/perguto/Video-Screenshot-Extension): Take a screenshot of any video on any website, in the best quality and without unwanted UI elements!
 - [Craiyon Download Button](https://github.com/perguto/Craiyon-Download-Button): Download all generated images on craiyon.com in original quality with one click!
 
+## Web Utilities
+
+- [GBA save file converter](https://perguto.github.io/sav2srm/): Convert GBA save files from .sav to .srm and vice versa!
+
 ## Other Stuff
 
 - [goggle](https://github.com/perguto/goggle): goggle
