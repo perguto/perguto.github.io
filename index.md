@@ -1,12 +1,7 @@
-
----
-layout: default
----
-
 <style>
 body { 
-    background:  #0c0c0c;
-    color: #e0e0e0;
+    background:  #222;
+    color: #eee;
 }
 </style>
 
